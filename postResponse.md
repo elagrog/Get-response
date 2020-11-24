@@ -17,15 +17,8 @@ https://docs.google.com/document/d/1jBZeW-5fZ450NM-CZZply_wbW6p5LdkmQBMno' \
      "side-quantity":10,
      "side3":"crispyOnionRings",
      "side-quantity":6,
-     "server":"Albert",
-     "server-id":"xx",
-     "cook":"Alex",
-     "cook-id":"xd",
-     "price-base":"18.00"
-     "price-add":"38.00"
-     "price-total":"56.00"
+     
      }'
-    
      
      
      
