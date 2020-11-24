@@ -1,8 +1,11 @@
 ``` JSON
 
-# response
+--'Authorization:
+https://docs.google.com/document/d/1jBZeW-5fZ450NM-CZZply_wbW6p5LdkmQBMno' \ 
+--header'Accept: application/json \ 
+--header'Content-Type: application/json' \ 
+--data-raw '{ 
 
-{
 
      'meal_type":"lunch",
      "timestamp":"2020-11-01T07:15:00",
@@ -21,11 +24,8 @@
      "price-base":"18.00"
      "price-add":"38.00"
      "price-total":"56.00"
-     }
-    } 
-   }
-   
-   ```
+     }'
+    
      
      
      
