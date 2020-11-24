@@ -1,7 +1,6 @@
 ``` JSON
 
 --'Authorization:
-https://docs.google.com/document/d/1jBZeW-5fZ450NM-CZZply_wbW6p5LdkmQBMno' \ 
 --header'Accept: application/json \ 
 --header'Content-Type: application/json' \ 
 --data-raw '{ 
